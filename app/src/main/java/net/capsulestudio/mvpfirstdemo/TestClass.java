@@ -1,5 +1,5 @@
 package net.capsulestudio.mvpfirstdemo;
 
 public class TestClass {
-    String name = "Jaki";
+    String name = "Juman ahmed Jaki";
 }
