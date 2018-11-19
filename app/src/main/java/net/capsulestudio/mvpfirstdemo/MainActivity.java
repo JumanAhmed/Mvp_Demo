@@ -49,4 +49,8 @@ public class MainActivity extends AppCompatActivity implements ILoginView {
     public void onLoginError(String message) {
         Toasty.error(this, message, Toast.LENGTH_LONG).show();
     }
+
+    public void  testMethod(){
+        Toast.makeText(this, "Test Mehtod", Toast.LENGTH_SHORT).show();
+    }
 }
